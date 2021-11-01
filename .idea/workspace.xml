@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9633ba-292b-4eaa-8641-33bf33d16d16" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test_leap_year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test_leap_year.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae9633ba-292b-4eaa-8641-33bf33d16d16" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -271,7 +268,19 @@
       <option name="presentableId" value="LOCAL−00020" />
       <updated>1635795211422</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL−00021" summary="test">
+      <created>1635795299886</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1635795299886</updated>
+    </task>
+    <task id="LOCAL−00022" summary="test">
+      <created>1635795376178</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1635795376178</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
