@@ -5,7 +5,7 @@ class LeapYear {
         if (year % 100 == 0)
             return false;
 
-        return year % 4 == 0;
+        return year % 4 == ;
     }
 }
 
