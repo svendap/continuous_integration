@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9633ba-292b-4eaa-8641-33bf33d16d16" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leap_year_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leap_year_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leap_year_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/leap_year_test.class" afterDir="false" />
-    </list>
+    <list default="true" id="ae9633ba-292b-4eaa-8641-33bf33d16d16" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +197,13 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1635792293977</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="test">
+      <created>1635792766537</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1635792766537</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
