@@ -25,7 +25,7 @@ class leap_year_test {
 
     @Test
     public void year_is_not_leapyear_when_divisibleBy4_and_100_but_not_400() {
-        boolean leap = leapYear.isLeapYear(1700);
+        boolean leap = leapYear.isLeapYear(2000);
         assertFalse(leap);
     }
 }
