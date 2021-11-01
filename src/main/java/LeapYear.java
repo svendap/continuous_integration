@@ -1,4 +1,3 @@
-
 class LeapYear {
 
     public boolean isLeapYear(int year) {
