@@ -2,7 +2,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class leap_year_test {
-
     private final LeapYear leapYear = new LeapYear();
 
     @Test
