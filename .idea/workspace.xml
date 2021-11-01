@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9633ba-292b-4eaa-8641-33bf33d16d16" name="Changes" comment="s">
-      <change beforePath="$PROJECT_DIR$/target/classes/LeapYear.class" beforeDir="false" />
+    <list default="true" id="ae9633ba-292b-4eaa-8641-33bf33d16d16" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leap_year_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leap_year_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeapYear.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +148,25 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1635785472364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="s">
+      <created>1635787736863</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1635787736863</updated>
+    </task>
+    <task id="LOCAL−00003" summary="test">
+      <created>1635787837111</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1635787837111</updated>
+    </task>
+    <task id="LOCAL−00004" summary="test">
+      <created>1635787954511</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1635787954511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +186,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="s" />
-    <option name="LAST_COMMIT_MESSAGE" value="s" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
