@@ -50,7 +50,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.leap_year_test">
+  <component name="RunManager" selected="JUnit.Test_leap_year">
+    <configuration name="Test_leap_year" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test_leap_year" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leap_year_test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Oblig2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -61,15 +70,6 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <dir value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leap_year_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Oblig2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="leap_year_test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,13 +122,13 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.test in Oblig2" />
-      <item itemvalue="JUnit.leap_year_test" />
       <item itemvalue="JUnit.leap_year_test.year_is_not_leapyear_when_divisibleBy4_and_100_but_not_400" />
       <item itemvalue="JUnit.leap_year_test.year_is_leapyear_when_divisibleBy4_but_not_DivisibleBy100" />
+      <item itemvalue="JUnit.Test_leap_year" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.leap_year_test" />
+        <item itemvalue="JUnit.Test_leap_year" />
         <item itemvalue="JUnit.leap_year_test.year_is_leapyear_when_divisibleBy4_but_not_DivisibleBy100" />
         <item itemvalue="JUnit.leap_year_test.year_is_not_leapyear_when_divisibleBy4_and_100_but_not_400" />
       </list>
